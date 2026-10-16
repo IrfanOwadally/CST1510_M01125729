@@ -102,7 +102,7 @@ while quit == "False":
         else:
             #Display Status
             print(" Status       :         OK")
-        #Clsoing an interface
+        #Closing an interface
         print("=" * 34)
 #Display the ovrelimit that is counted for the record
 print("The over limit for the record is : ", Overlimit)
